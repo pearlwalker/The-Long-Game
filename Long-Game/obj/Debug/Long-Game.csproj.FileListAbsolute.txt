@@ -1,0 +1,7 @@
+C:\Users\pearl\source\repos\Long-Game\Long-Game\bin\Debug\Long-Game.exe.config
+C:\Users\pearl\source\repos\Long-Game\Long-Game\bin\Debug\Long-Game.exe
+C:\Users\pearl\source\repos\Long-Game\Long-Game\bin\Debug\Long-Game.pdb
+C:\Users\pearl\source\repos\Long-Game\Long-Game\obj\Debug\Long-Game.csproj.AssemblyReference.cache
+C:\Users\pearl\source\repos\Long-Game\Long-Game\obj\Debug\Long-Game.csproj.CoreCompileInputs.cache
+C:\Users\pearl\source\repos\Long-Game\Long-Game\obj\Debug\Long-Game.exe
+C:\Users\pearl\source\repos\Long-Game\Long-Game\obj\Debug\Long-Game.pdb
